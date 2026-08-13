@@ -94,7 +94,8 @@ The program displays the entered information, data types, object IDs and approxi
 ### 🖥️ Output
 
 <p align="center">
-  <img src="screenshots/output.png" alt="Program Output" width="900">
+  <img src="<img width="1213" height="657" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/2c23f097-c7de-4ebc-a926-318c0fa6498e" />
+" alt="Program Output" width="900">
 </p>
 
 ---
