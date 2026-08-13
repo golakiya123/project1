@@ -1,3 +1,4 @@
+<img width="1275" height="708" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/f1fdd547-aefb-4eea-9e2b-247359562bc8" />
 <div align="center">
 
 # 🖤🐍 Interactive Personal Data Collector
@@ -86,7 +87,8 @@ The program displays the entered information, data types, object IDs and approxi
 ### 💻 Code
 
 <p align="center">
-  <img src="screenshots/code.png" alt="Python Code" width="900">
+  <img src="<img width="1275" height="708" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/9fd530e0-241f-4cc5-9843-87921cb44f4f" />
+" alt="Python Code" width="900">
 </p>
 
 ### 🖥️ Output
