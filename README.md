@@ -87,7 +87,8 @@ The program displays the entered information, data types, object IDs and approxi
 ### 💻 Code
 
 <p align="center">
-  <img src="code.png" alt="Python Code" width="900">
+  <img src="<img width="1275" height="708" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/62cd6951-cb34-4abc-abc3-e60ca428440e" />
+" alt="Python Code" width="900">
 " alt="Python Code" width="900">
 </p>
 
