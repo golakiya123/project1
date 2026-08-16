@@ -1,128 +1,176 @@
-<img width="1275" height="708" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/f1fdd547-aefb-4eea-9e2b-247359562bc8" />
 <div align="center">
 
-# 🖤🐍 Interactive Personal Data Collector
+# 🐍 Interactive Personal Data Collector
 
-### ✨ A simple and beginner-friendly Python project
+### A beginner-friendly Python project demonstrating input, type conversion, variables, and basic data inspection.
 
-**Collect • Process • Display • Learn**
-
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Beginner](https://img.shields.io/badge/Level-Beginner-111111?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-222222?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Python-3.14%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.14+">
+  <img src="https://img.shields.io/badge/Level-Beginner-success?style=for-the-badge" alt="Beginner">
+  <img src="https://img.shields.io/badge/Project-CLI-lightgrey?style=for-the-badge" alt="CLI Project">
+</p>
 
 </div>
 
 ---
 
-## 🖤 About The Project
+## ✨ About the Project
 
-This project is a simple **Personal Data Collector** created with Python.
-It takes basic information from the user and displays the collected values along with their **data types** and **object IDs**.
+**Interactive Personal Data Collector** is a simple command-line Python application created to practice core Python concepts through an interactive program.
 
-It also calculates an approximate birth year using the entered age. 🎂
+The program collects a user's:
+
+- 👤 Name
+- 🎂 Age
+- 📏 Height
+- 🔢 Favourite number
+
+It then displays the collected values along with their Python data types and object IDs, and calculates an approximate birth year.
+
+This project is designed as a practical demonstration of beginner Python fundamentals and is suitable for a learning portfolio.
 
 ---
 
-## ⚡ Features
+## 🎯 What I Practiced
 
-| Feature | Description |
+| Concept | Used in the project |
 |---|---|
-| 👤 **Name** | Takes the user's name |
-| 🎂 **Age** | Takes the user's age |
-| 📏 **Height** | Takes the user's height |
-| 🔢 **Favourite Number** | Takes the user's favourite number |
-| 🧮 **Birth Year** | Calculates approximate birth year |
-| 🐍 **Data Type** | Displays the Python data type |
-| 💾 **Object ID** | Displays the object's identity using `id()` |
-| 👋 **Goodbye Message** | Shows a friendly ending message |
+| `input()` | Collecting information from the user |
+| Variables | Storing user data |
+| `int()` | Converting age and favourite number to integers |
+| `float()` | Converting height to a decimal number |
+| `str()` | Handling name as a string |
+| `type()` | Checking Python data types |
+| `id()` | Displaying the object's identity/address value |
+| Arithmetic | Calculating approximate birth year |
+| `print()` | Presenting formatted output |
 
 ---
 
-## 🛠️ Technologies
+## 🖥️ Project Preview
+
+### 💻 Python Code
+
+<img width="1275" height="708" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/95835faa-b395-42cf-83fe-50b9eb36c04b" />
+
+
+### 📊 Program Output
+
+<img width="1213" height="657" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/d6fce5d7-a83c-44c5-8e01-e347743de4a8" />
+
+
+> **Tip:** Keep these screenshots in the `assets` folder when uploading the project to GitHub. GitHub supports relative image paths in README files.  
+> citeturn0search0turn0search1
+
+---
+
+## 🚀 How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+### 2. Open the project folder
+
+```bash
+cd YOUR_REPOSITORY_NAME
+```
+
+### 3. Run the Python file
+
+```bash
+python project1.py
+```
+
+### 4. Enter the requested information
+
+The program will ask for your name, age, height, and favourite number, then display the collected information and approximate birth year.
+
+---
+
+## 🧪 Example
 
 ```text
-🐍 Python 3
-💻 Python IDLE
-⌨️ input()
-🔄 int() / float() / str()
-🔍 type()
-💾 id()
-➕ Basic arithmetic
+Enter Your Name: vency
+Enter Your Age: 23
+Enter Your Height: 5.5
+Enter Your Favourite number: 22
+
+Name: vency
+Age: 23
+Height: 5.5
+Favourite_number: 22
+
+Your Birth Year is approximately: 2003
 ```
 
 ---
 
-## 🚀 How To Run
+## 🎥 Demo Video
 
-### 1️⃣ Download the project
-Download or clone this repository.
+▶️ **[Watch the Project Demo](YOUR_VIDEO_LINK_HERE)**
 
-### 2️⃣ Open the Python file
-Open `project1.py` using Python IDLE or another Python editor.
+**Replace `YOUR_VIDEO_LINK_HERE` with your YouTube, Google Drive, or other public demo-video URL.**
 
-### 3️⃣ Run ▶️
-Enter your name, age, height and favourite number.
-
-### 4️⃣ See the result 🎉
-The program displays the entered information, data types, object IDs and approximate birth year.
+> GitHub README files can link to external videos, but a normal Markdown README does not directly embed a YouTube player. A clickable thumbnail/link is the usual approach.  
+> citeturn0search7
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
 📦 project1
- ┣ 📜 project1.py
- ┣ 📜 README.md
- ┗ 📂 screenshots
-    ┣ 🖼️ code.png
-    ┗ 🖼️ output.png
+ ├── 🐍 project1.py
+ ├── 📄 README.md
+ └── 📂 assets
+      ├── 🖥️ python-code.png
+      └── 📊 program-output.png
 ```
 
 ---
 
-## 📸 Screenshots
+## 🌱 Learning Outcome
 
-### 💻 Code
+Through this project, I practiced how Python can:
 
-<p align="center">
-  <img src="<img width="1275" height="708" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/62cd6951-cb34-4abc-abc3-e60ca428440e" />
-" alt="Python Code" width="900">
-</p>
-
-### 🖥️ Output
-
-<p align="center">
-  <img src="<img width="1213" height="657" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/2c23f097-c7de-4ebc-a926-318c0fa6498e" />
-" alt="python Output" width="900">
-</p>
+- accept information from a user,
+- convert input into different data types,
+- store values using variables,
+- inspect values using `type()` and `id()`,
+- perform simple calculations, and
+- present results clearly in the terminal.
 
 ---
 
-## 🧠 What I Learned
+## 🔮 Future Improvements
 
-- 📝 Taking input from users
-- 🔄 Converting input into different data types
-- 🔎 Checking data types with `type()`
-- 💾 Understanding object identity with `id()`
-- 🧮 Performing basic calculations
-- 🐍 Writing and running a Python program
+Some possible next steps for this project:
+
+- [ ] Remove duplicate input collection
+- [ ] Add input validation
+- [ ] Improve the terminal formatting
+- [ ] Add more personal-data fields
+- [ ] Add a menu-based interface
+- [ ] Store collected data in a file
+- [ ] Add better error handling
 
 ---
 
-## 💡 Example Calculation
+## 👩‍💻 Author
 
-```python
-birth_year = 2026 - Age
-```
+**Vency**
+
+> Learning Python step by step and building practical projects. 🐍💻
 
 ---
 
 <div align="center">
 
-## 🖤 Made with Python & Learning
+### ⭐ If you find this project useful, consider giving the repository a star!
 
-**Keep Coding • Keep Learning • Keep Growing 🚀**
+**Made with Python & curiosity. 🚀**
 
 </div>
